@@ -1,0 +1,12 @@
+CART_HOST: cart.sniggie.fun
+CATALOGUE_HOST: catalogue.sniggie.fun
+MONGODB_HOST: mongodb.sniggie.fun
+MYSQL_HOST: mysql.sniggie.fun
+PAYMENT_HOST: payment.sniggie.fun
+RABBITMQ_HOST: rabbitmq.sniggie.fun
+REDIS_HOST: redis.sniggie.fun
+SHIPPING_HOST: shipping.sniggie.fun
+USER_HOST : user.sniggie.fun
+
+
+
