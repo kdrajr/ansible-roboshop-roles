@@ -5,5 +5,3 @@
 - name: testing include vs import role
   ansible.builtin.debug:
     msg: "Hello"
-  tags:
-    - testing
